@@ -1,0 +1,123 @@
+{
+    "campaign": "Professional Cloud Architect",
+    "community": "GDG Saint Louis",
+    "link": "https://gdg.community.dev/gdg-stlouis",
+    "badgesEndpoint": "https://us-central1-stlouisbadgetracker.cloudfunctions.net/stlouisbadgetracker",
+    "sessions": [
+        {
+            "index": 0,
+            "isSelected": false,
+            "isComplete": false,
+            "date": "2023-05-05T00:00:00Z",
+            "badges": [
+                {
+                    "badgeTitle": "Preparing for Your Professional Cloud Architect Journey",
+                    "link": "https://www.cloudskillsboost.google/course_templates/78",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Google Cloud Fundamentals: Core Infrastructure",
+                    "link": "https://www.cloudskillsboost.google/course_templates/60",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Essential Google Cloud Infrastructure: Foundation",
+                    "link": "https://www.cloudskillsboost.google/quests/50",
+                    "isComplete": false
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "isSelected": false,
+            "isComplete": false,
+            "date": "2023-05-12T00:00:00Z",
+            "badges": [
+                {
+                    "badgeTitle": "Essential Google Cloud Infrastructure: Core Services",
+                    "link": "https://www.cloudskillsboost.google/course_templates/49",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Elastic Google Cloud Infrastructure: Scaling and Automation",
+                    "link": "https://www.cloudskillsboost.google/quests/178",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Reliable Google Cloud Infrastructure: Design and Process",
+                    "link": "https://www.cloudskillsboost.google/course_templates/41",
+                    "isComplete": false
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "isSelected": false,
+            "date": "2023-05-19T00:00:00Z",
+            "isComplete": false,
+            "badges": [
+                {
+                    "badgeTitle": "Getting Started with Google Kubernetes Engine",
+                    "link": "https://www.cloudskillsboost.google/quests/2",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Logging, Monitoring and Observability in Google Cloud",
+                    "link": "https://www.cloudskillsboost.google/course_templates/99",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Create and Manage Cloud Resources",
+                    "link": "https://www.cloudskillsboost.google/quests/120",
+                    "isComplete": false
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "isSelected": false,
+            "date": "2023-05-26T00:00:00Z",
+            "isComplete": false,
+            "badges": [
+                {
+                    "badgeTitle": "Perform Foundational Infrastructure Tasks",
+                    "link": "https://www.cloudskillsboost.google/course_templates/118",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Set up and Configure a Cloud Environment in Google Cloud",
+                    "link": "https://www.cloudskillsboost.google/course_templates/119",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Automating Infrastructure on Google Cloud with Terraform",
+                    "link": "https://www.cloudskillsboost.google/quests/159",
+                    "isComplete": false
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "isSelected": false,
+            "date": "2022-09-15T00:00:00Z",
+            "isComplete": false,
+            "badges": [
+                {
+                    "badgeTitle": "Deploy and Manage Cloud Environments with Google Cloud",
+                    "link": "https://www.cloudskillsboost.google/quests/121",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Optimize Costs for Google Kubernetes Engine",
+                    "link": "https://www.cloudskillsboost.google/quests/157",
+                    "isComplete": false
+                },
+                {
+                    "badgeTitle": "Cloud Architecture: Design, Implement, and Manage",
+                    "link": "https://www.cloudskillsboost.google/quests/124",
+                    "isComplete": false
+                }
+            ]
+        }
+    ]
+}
